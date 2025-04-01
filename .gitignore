@@ -1,0 +1,17 @@
+# 빌드 결과물
+*.obj
+*.exe
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+*.FileListAbsolute.txt
+*.VC.db
+*.ipch
+
+# 폴더 무시
+x64/
+Debug/
+Release/
+.vs/
