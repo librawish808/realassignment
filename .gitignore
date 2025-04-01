@@ -1,17 +1,15 @@
-# 빌드 결과물
+# 무시할 빌드 산출물
 *.obj
 *.exe
 *.pdb
-*.idb
 *.tlog
-*.lastbuildstate
 *.log
-*.FileListAbsolute.txt
+*.ilk
+*.lastbuildstate
 *.VC.db
-*.ipch
+*.idb
 
-# 폴더 무시
+# 무시할 폴더
 x64/
 Debug/
-Release/
 .vs/
